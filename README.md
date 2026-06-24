@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Site</title>
+    <title>Dennis Munyua</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -26,12 +26,16 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm[Dennismunyua]</h1>
+    <h1>Welcome! I'm Dennis Munyua</h1>
 
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
+        <p>
+            Hello! My name is Dennis Munyua. I am a student from Kenya with an
+            interest in technology, programming, and personal development. I am
+            currently learning Git, GitHub, Python, and web development while
+            building my skills through practical projects.
+        </p>
     </div>
 
     <div class="section">
